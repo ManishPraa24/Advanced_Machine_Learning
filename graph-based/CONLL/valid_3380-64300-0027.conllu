@@ -1,0 +1,42 @@
+# text = TO USE WHEN OCCASION WAS FOR OTHERS AND SOMETHING TO LAY BY FOR THE TIME OF LENGTHENING SHADOWS TURNBULL SEEMED TO HARE TAKEN A LESSON FROM HIS LATE NARROW ESCAPE FOR HE GAVE UP THE WORST OF HIS SPECULATIONS
+# sent_id = 3380-64300-0027
+1	TO	TO	PART	_	_	10	mark	_	_
+2	USE	USE	VERB	_	_	22	xcomp	_	_
+3	WHEN	WHEN	ADV	_	_	22	advmod	_	_
+4	OCCASION	OCCASION	NOUN	_	_	0	obl	_	_
+5	WAS	WAS	AUX	_	_	22	aux:pass	_	_
+6	FOR	FOR	ADP	_	_	14	case	_	_
+7	OTHERS	OTHERS	NOUN	_	_	0	obl	_	_
+8	AND	AND	CCONJ	_	_	22	cc	_	_
+9	SOMETHING	SOMETHING	PRON	_	_	22	nsubj	_	_
+10	TO	TO	PART	_	_	0	mark	_	_
+11	LAY	LAY	VERB	_	_	22	advcl	_	_
+12	BY	BY	ADP	_	_	38	case	_	_
+13	FOR	FOR	ADP	_	_	3	case	_	_
+14	THE	THE	DET	_	_	3	det	_	_
+15	TIME	TIME	NOUN	_	_	22	obl	_	_
+16	OF	OF	ADP	_	_	38	case	_	_
+17	LENGTHENING	LENGTHENING	VERB	_	_	0	root	_	_
+18	SHADOWS	SHADOWS	NOUN	_	_	22	obl	_	_
+19	TURNBULL	TURNBULL	NOUN	_	_	0	obl	_	_
+20	SEEMED	SEEMED	VERB	_	_	0	root	_	_
+21	TO	TO	PART	_	_	0	mark	_	_
+22	HARE	HARE	VERB	_	_	0	root	_	_
+23	TAKEN	TAKEN	VERB	_	_	0	root	_	_
+24	A	A	DET	_	_	38	det	_	_
+25	LESSON	LESSON	NOUN	_	_	22	nsubj	_	_
+26	FROM	FROM	ADP	_	_	38	case	_	_
+27	HIS	HIS	PRON	_	_	38	nmod:poss	_	_
+28	LATE	LATE	ADJ	_	_	14	amod	_	_
+29	NARROW	NARROW	ADJ	_	_	14	amod	_	_
+30	ESCAPE	ESCAPE	NOUN	_	_	0	obl	_	_
+31	FOR	FOR	SCONJ	_	_	10	mark	_	_
+32	HE	HE	PRON	_	_	22	nsubj	_	_
+33	GAVE	GAVE	VERB	_	_	22	xcomp	_	_
+34	UP	UP	ADP	_	_	22	compound:prt	_	_
+35	THE	THE	DET	_	_	3	det	_	_
+36	WORST	WORST	ADJ	_	_	14	amod	_	_
+37	OF	OF	ADP	_	_	38	case	_	_
+38	HIS	HIS	PRON	_	_	38	nmod:poss	_	_
+39	SPECULATIONS	SPECULATIONS	NOUN	_	_	8	nmod	_	_
+

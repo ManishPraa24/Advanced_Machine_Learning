@@ -1,0 +1,42 @@
+# text = A VIEW OF MATRIMONY IN THREE DIFFERENT LIGHTS THE MARRIAGE LIFE IS ALWAYS AN INSIPID A VEXATIOUS OR A HAPPY CONDITION THE FIRST IS WHEN TWO PEOPLE OF NO TASTE MEET TOGETHER <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+# sent_id = 5386-28384-0015
+1	A	A	DET	_	_	0	det	_	_
+2	VIEW	VIEW	NOUN	_	_	0	obj	_	_
+3	OF	OF	ADP	_	_	7	case	_	_
+4	MATRIMONY	MATRIMONY	NOUN	_	_	30	obj	_	_
+5	IN	IN	ADP	_	_	20	case	_	_
+6	THREE	THREE	NUM	_	_	7	nummod	_	_
+7	DIFFERENT	DIFFERENT	ADJ	_	_	20	amod	_	_
+8	LIGHTS	LIGHTS	NOUN	_	_	0	obj	_	_
+9	THE	THE	DET	_	_	0	det	_	_
+10	MARRIAGE	MARRIAGE	NOUN	_	_	20	compound	_	_
+11	LIFE	LIFE	NOUN	_	_	0	obj	_	_
+12	IS	IS	AUX	_	_	14	cop	_	_
+13	ALWAYS	ALWAYS	ADV	_	_	14	advmod	_	_
+14	AN	AN	DET	_	_	20	det	_	_
+15	INSIPID	INSIPID	ADJ	_	_	20	amod	_	_
+16	A	A	DET	_	_	20	det	_	_
+17	VEXATIOUS	VEXATIOUS	ADJ	_	_	20	amod	_	_
+18	OR	OR	CCONJ	_	_	14	cc	_	_
+19	A	A	DET	_	_	20	det	_	_
+20	HAPPY	HAPPY	ADJ	_	_	20	amod	_	_
+21	CONDITION	CONDITION	NOUN	_	_	0	obj	_	_
+22	THE	THE	DET	_	_	0	det	_	_
+23	FIRST	FIRST	ADJ	_	_	20	amod	_	_
+24	IS	IS	AUX	_	_	14	cop	_	_
+25	WHEN	WHEN	ADV	_	_	30	advmod	_	_
+26	TWO	TWO	NUM	_	_	1	nummod	_	_
+27	PEOPLE	PEOPLE	NOUN	_	_	0	nsubj	_	_
+28	OF	OF	ADP	_	_	7	case	_	_
+29	NO	NO	DET	_	_	20	det	_	_
+30	TASTE	TASTE	NOUN	_	_	30	obj	_	_
+31	MEET	MEET	VERB	_	_	21	root	_	_
+32	TOGETHER	TOGETHER	ADV	_	_	30	advmod	_	_
+33	<pad>	<pad>	<pad>	_	_	0	case	_	_
+34	<pad>	<pad>	<pad>	_	_	0	case	_	_
+35	<pad>	<pad>	<pad>	_	_	0	case	_	_
+36	<pad>	<pad>	<pad>	_	_	0	case	_	_
+37	<pad>	<pad>	<pad>	_	_	0	case	_	_
+38	<pad>	<pad>	<pad>	_	_	0	case	_	_
+39	<pad>	<pad>	<pad>	_	_	0	case	_	_
+

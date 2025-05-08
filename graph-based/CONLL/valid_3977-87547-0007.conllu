@@ -1,0 +1,44 @@
+# text = FROM THIS EXPERIMENT I EXPECTED THAT THE SAME EFFECT WOULD HAVE BEEN PRODUCED ON FIXED AIR BY THE FUMES OF LIVER OF SULPHUR BUT I WAS DISAPPOINTED IN THAT EXPECTATION WHICH SURPRISED ME NOT A LITTLE <pad> <pad> <pad> <pad> <pad>
+# sent_id = 3977-87547-0007
+1	FROM	FROM	ADP	_	_	2	case	_	_
+2	THIS	THIS	DET	_	_	18	det	_	_
+3	EXPERIMENT	EXPERIMENT	NOUN	_	_	4	obj	_	_
+4	I	I	PRON	_	_	12	nsubj	_	_
+5	EXPECTED	EXPECTED	VERB	_	_	0	root	_	_
+6	THAT	THAT	SCONJ	_	_	31	mark	_	_
+7	THE	THE	DET	_	_	18	det	_	_
+8	SAME	SAME	ADJ	_	_	2	amod	_	_
+9	EFFECT	EFFECT	NOUN	_	_	12	obj	_	_
+10	WOULD	WOULD	AUX	_	_	12	aux	_	_
+11	HAVE	HAVE	AUX	_	_	12	aux	_	_
+12	BEEN	BEEN	AUX	_	_	12	aux:pass	_	_
+13	PRODUCED	PRODUCED	VERB	_	_	0	root	_	_
+14	ON	ON	ADP	_	_	22	case	_	_
+15	FIXED	FIXED	VERB	_	_	2	amod	_	_
+16	AIR	AIR	NOUN	_	_	0	obl	_	_
+17	BY	BY	ADP	_	_	22	case	_	_
+18	THE	THE	DET	_	_	15	det	_	_
+19	FUMES	FUMES	NOUN	_	_	0	obl	_	_
+20	OF	OF	ADP	_	_	22	case	_	_
+21	LIVER	LIVER	NOUN	_	_	0	obl	_	_
+22	OF	OF	ADP	_	_	22	case	_	_
+23	SULPHUR	SULPHUR	NOUN	_	_	0	obl	_	_
+24	BUT	BUT	CCONJ	_	_	12	cc	_	_
+25	I	I	PRON	_	_	12	nsubj	_	_
+26	WAS	WAS	AUX	_	_	12	aux:pass	_	_
+27	DISAPPOINTED	DISAPPOINTED	ADJ	_	_	2	amod	_	_
+28	IN	IN	ADP	_	_	2	case	_	_
+29	THAT	THAT	DET	_	_	2	det	_	_
+30	EXPECTATION	EXPECTATION	NOUN	_	_	0	obl	_	_
+31	WHICH	WHICH	PRON	_	_	12	nsubj	_	_
+32	SURPRISED	SURPRISED	VERB	_	_	0	root	_	_
+33	ME	ME	PRON	_	_	12	obj	_	_
+34	NOT	NOT	PART	_	_	0	advmod	_	_
+35	A	A	DET	_	_	18	det	_	_
+36	LITTLE	LITTLE	ADJ	_	_	2	amod	_	_
+37	<pad>	<pad>	<pad>	_	_	0	fixed	_	_
+38	<pad>	<pad>	<pad>	_	_	0	fixed	_	_
+39	<pad>	<pad>	<pad>	_	_	0	fixed	_	_
+40	<pad>	<pad>	<pad>	_	_	0	fixed	_	_
+41	<pad>	<pad>	<pad>	_	_	0	fixed	_	_
+

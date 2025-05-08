@@ -1,0 +1,44 @@
+# text = AND A PART OF THE HILL DISTINGUISHED BY THE NAME OF MORIAH AND LEVELLED BY HUMAN INDUSTRY WAS CROWNED WITH THE STATELY TEMPLE OF THE JEWISH NATION AFTER THE FINAL DESTRUCTION OF THE TEMPLE BY THE ARMS OF TITUS AND HADRIAN
+# sent_id = 949-134660-0000
+1	AND	AND	CCONJ	_	_	6	cc	_	_
+2	A	A	DET	_	_	16	det	_	_
+3	PART	PART	NOUN	_	_	13	obj	_	_
+4	OF	OF	ADP	_	_	11	case	_	_
+5	THE	THE	DET	_	_	16	det	_	_
+6	HILL	HILL	NOUN	_	_	0	compound	_	_
+7	DISTINGUISHED	DISTINGUISHED	VERB	_	_	0	root	_	_
+8	BY	BY	ADP	_	_	11	case	_	_
+9	THE	THE	DET	_	_	16	det	_	_
+10	NAME	NAME	NOUN	_	_	0	nsubj	_	_
+11	OF	OF	ADP	_	_	11	case	_	_
+12	MORIAH	MORIAH	PROPN	_	_	0	compound	_	_
+13	AND	AND	CCONJ	_	_	6	cc	_	_
+14	LEVELLED	LEVELLED	VERB	_	_	0	root	_	_
+15	BY	BY	ADP	_	_	11	case	_	_
+16	HUMAN	HUMAN	ADJ	_	_	22	amod	_	_
+17	INDUSTRY	INDUSTRY	NOUN	_	_	13	obl	_	_
+18	WAS	WAS	AUX	_	_	0	cop	_	_
+19	CROWNED	CROWNED	VERB	_	_	0	root	_	_
+20	WITH	WITH	ADP	_	_	16	case	_	_
+21	THE	THE	DET	_	_	16	det	_	_
+22	STATELY	STATELY	ADJ	_	_	22	amod	_	_
+23	TEMPLE	TEMPLE	NOUN	_	_	0	compound	_	_
+24	OF	OF	ADP	_	_	11	case	_	_
+25	THE	THE	DET	_	_	16	det	_	_
+26	JEWISH	JEWISH	ADJ	_	_	22	amod	_	_
+27	NATION	NATION	NOUN	_	_	0	obl	_	_
+28	AFTER	AFTER	ADP	_	_	16	case	_	_
+29	THE	THE	DET	_	_	16	det	_	_
+30	FINAL	FINAL	ADJ	_	_	22	amod	_	_
+31	DESTRUCTION	DESTRUCTION	NOUN	_	_	13	obj	_	_
+32	OF	OF	ADP	_	_	11	case	_	_
+33	THE	THE	DET	_	_	16	det	_	_
+34	TEMPLE	TEMPLE	NOUN	_	_	0	compound	_	_
+35	BY	BY	ADP	_	_	11	case	_	_
+36	THE	THE	DET	_	_	16	det	_	_
+37	ARMS	ARMS	NOUN	_	_	13	obj	_	_
+38	OF	OF	ADP	_	_	11	case	_	_
+39	TITUS	TITUS	NOUN	_	_	0	nsubj	_	_
+40	AND	AND	CCONJ	_	_	2	cc	_	_
+41	HADRIAN	HADRIAN	NOUN	_	_	0	compound	_	_
+

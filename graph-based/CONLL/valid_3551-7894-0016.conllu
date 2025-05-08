@@ -1,0 +1,26 @@
+# text = COME NOW FOLLOW THE MEN QUIETLY RESISTANCE WOULD ONLY AGGRAVATE YOUR CASE I AM QUITE PREPARED TO FOLLOW YOU <pad> <pad> <pad> <pad>
+# sent_id = 3551-7894-0016
+1	COME	COME	VERB	_	_	2	xcomp	_	_
+2	NOW	NOW	ADV	_	_	0	advmod	_	_
+3	FOLLOW	FOLLOW	VERB	_	_	0	advcl	_	_
+4	THE	THE	DET	_	_	11	det	_	_
+5	MEN	MEN	NOUN	_	_	2	nsubj	_	_
+6	QUIETLY	QUIETLY	ADV	_	_	0	advmod	_	_
+7	RESISTANCE	RESISTANCE	NOUN	_	_	2	nsubj	_	_
+8	WOULD	WOULD	AUX	_	_	17	aux	_	_
+9	ONLY	ONLY	ADV	_	_	0	advmod	_	_
+10	AGGRAVATE	AGGRAVATE	VERB	_	_	0	xcomp	_	_
+11	YOUR	YOUR	PRON	_	_	11	nmod:poss	_	_
+12	CASE	CASE	NOUN	_	_	0	obl	_	_
+13	I	I	PRON	_	_	2	nsubj	_	_
+14	AM	AM	AUX	_	_	0	aux	_	_
+15	QUITE	QUITE	ADV	_	_	1	advmod	_	_
+16	PREPARED	PREPARED	ADJ	_	_	11	amod	_	_
+17	TO	TO	PART	_	_	0	mark	_	_
+18	FOLLOW	FOLLOW	VERB	_	_	0	advcl	_	_
+19	YOU	YOU	PRON	_	_	2	nsubj	_	_
+20	<pad>	<pad>	<pad>	_	_	0	obj	_	_
+21	<pad>	<pad>	<pad>	_	_	0	obj	_	_
+22	<pad>	<pad>	<pad>	_	_	0	obj	_	_
+23	<pad>	<pad>	<pad>	_	_	0	obj	_	_
+
